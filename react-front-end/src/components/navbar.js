@@ -57,7 +57,7 @@ const Navbar = (props) => {
       <Link className="logo" to="/" style={{ textDecoration: "none" }}>
         <span>CINEFLIX</span>
       </Link>
-      <div className="navbar__left__items">
+      <div className="navbar__right__items">
         <span>Hello! {authUserData.name}</span>
 
         {isLoggedIn && (
@@ -88,7 +88,7 @@ const Navbar = (props) => {
           </form>
         </div>
       </div>
-      <button onClick={logout}> Log Out</button>
+      <button onClick={logout} class = "btn btn-warning"> Log Out</button>
     </nav>
   ) : (
     <nav className="nav">
