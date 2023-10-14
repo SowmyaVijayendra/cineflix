@@ -9,6 +9,7 @@ Please run to get all the dependancies
 npm install
 ```
 Dependancies used
+  ```
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "axios": "^0.18.1",
@@ -21,6 +22,7 @@ Dependancies used
     "react-youtube": "^10.1.0"
     "react-router-dom": "^6.16.0"
   },
+  ```
 ## Running the projects
 
 You need **TWO** terminal windows/tabs for this (or some other plan for running two Node processes).
