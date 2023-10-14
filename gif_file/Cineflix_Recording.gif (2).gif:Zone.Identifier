@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/f9a01949-f1d5-47e7-8f64-b37726971ce5/Cineflix_Recording.gif.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20231014%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20231014T044438Z&X-Amz-Expires=86400&X-Amz-Signature=ec50d0cf8b07f552d9fc3762479ec45e77be93e512d54ad0ba40177ff3892f0a&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Cineflix_Recording.gif.gif%22&response-content-type=image%2Fgif&x-id=GetObject
