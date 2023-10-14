@@ -1,4 +1,5 @@
 # Cineflix
+![](./gif_file/Cineflix_Recording.gif%20(2).gif)
 
 This is our final project, it is a platform where people can search and watch their trailers. Users can register and login, users can then add trailers to their favourites. Upon doing so will send an email stating movies added or deleted from their list.
 
